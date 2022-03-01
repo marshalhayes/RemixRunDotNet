@@ -1,0 +1,18 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# IDE-specific
+.vscode/
+.idea/
+.vs/
+
+# Build files
+node_modules/
+**/.cache/
+**/build/
+
+# Secrets
+.env
